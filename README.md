@@ -9,6 +9,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giraffe1337&show_icons=true&locale=en" alt="giraffe1337" /></p>
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giraffe1337)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giraffe1337&label=Profile%20views&color=0e75b6&style=flat" alt="giraffe1337" /> </p>
