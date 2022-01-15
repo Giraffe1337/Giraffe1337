@@ -2,7 +2,7 @@
 <h3 align="center">A Node.js enthusiast from Israel</h3>
 
 - 🌱 I’m currently learning: **React, NextJS**
-- 📫 How to reach me: **Giraffe#1337 | GiraffeOnTheBeat@protonmail.com**
+- 📫 How to reach me: **GiraffeOnTheBeat@protonmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
